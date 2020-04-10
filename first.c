@@ -1,8 +1,7 @@
 #include<stdio.h>
 
 int main(void){
-    int i = 0;
-    i++;
+    for(int i = 0;i<3;i++);
     printf("Git-Practice\n");
     return 0;
 }
